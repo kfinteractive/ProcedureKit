@@ -6,6 +6,7 @@
 
 import Foundation
 import UIKit
+import ProcedureKit
 
 /**
  `AlertProcedure` is a Procedure subclass which will present a `UIAlertController`.

@@ -6,7 +6,7 @@
 
 import Foundation
 import UIKit
-
+import ProcedureKit
 
 /**
  The condition succeeds if the user's response to the shown alert
